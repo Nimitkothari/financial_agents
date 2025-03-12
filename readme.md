@@ -36,7 +36,6 @@ This project implements a class-based agentic system for financial analysis and 
 
 - Docker and Docker Compose installed
 - Groq API key/ NVAPI key
-- add .env file with GROQ_API_KEY/NGC_API_KEY
 
 ### Setup and Running
 
@@ -47,6 +46,10 @@ This project implements a class-based agentic system for financial analysis and 
    Create a `.env` file in the project root with:
    ```
    GROQ_API_KEY=your_groq_api_key
+   ```
+   OR
+   ```
+   NGC_API_KEY=your_nv_key
    ```
 
 3. **Build and run with Docker Compose**
