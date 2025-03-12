@@ -1,0 +1,21 @@
+# Core dependencies
+streamlit
+langchain
+langchain-groq
+langchain_nvidia_ai_endpoints
+python-dotenv
+
+# Data handling and analysis
+pandas
+numpy
+matplotlib
+pandas-datareader
+yfinance
+
+# LLM and API related
+groq
+typing-extensions
+
+# For compatibility with newer Pydantic/LangChain
+pydantic
+
