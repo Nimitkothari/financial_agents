@@ -35,7 +35,8 @@ This project implements a class-based agentic system for financial analysis and 
 ### Prerequisites
 
 - Docker and Docker Compose installed
-- Groq API key
+- Groq API key/ NVAPI key
+- add .env file with GROQ_API_KEY/NGC_API_KEY
 
 ### Setup and Running
 
