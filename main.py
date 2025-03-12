@@ -8,7 +8,7 @@ from langchain.tools import BaseTool
 from langchain.prompts import PromptTemplate
 from langchain_groq import ChatGroq
 from dotenv import load_dotenv
-
+from langchain_nvidia_ai_endpoints import ChatNVIDIA
 
 load_dotenv()  # Load environment variables from .env file
 
